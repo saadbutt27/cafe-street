@@ -1,0 +1,84 @@
+
+    <!-- TESTIMONIAL SECTION -->
+    <div class="row">
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <div class="testimonial">
+                <div class="row">
+                    <div class="col-5 col-sm-5 col-md-5 col-lg-5">
+                        <div class="testimonialContent">
+                            <h2>What the say about us</h2>
+                            <p>We always provide the best service <br> and always maintain the quality of coffee</p>
+                        </div>
+                    </div>
+                    <div class="col-7 col-sm-7 col-md-7 col-lg-7">
+                        <div class="testimonialImages">
+                            <img src="./images/naura.png" alt="">
+                            <div class="test" id="naura">
+                                <div class="testLight">
+                                    <p id="pt1">Naura <br>
+                                    <span id="pt2">I really love the capuccino, the coffee was really smooth.</span></p>
+                                </div>
+                            </div>
+                            <img src="./images/john.png" alt="">
+                            <div class="testLight1" id="john">
+                                <div class="test1">
+                                    <p id="pt1">John <br>
+                                    <span id="pt2">This coffee shop is very convenient.</span></p>
+                                </div>
+                                <div class="roundHere">
+                                    <div class="round" id="activeImg"></div> <div class="round"></div> <div class="round"></div>
+                                </div>
+                            </div>
+                            <img src="./images/azura.png" alt="">
+                            <div class="testLight2" id="azura">
+                                <div class="test2">
+                                    <p id="pt1">Azura <br>
+                                    <span id="pt2">The coffee menu here is very much.</span></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- TESTIMONIAL SECTION -->
+
+    <!-- NEWSLETTER SECTION -->
+    <div class="row">
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <div class="discount">
+                <div class="discountContent">
+                    <h2>Subscribe to get 50% discount price</h2>
+                    <form action="" method="get" onsubmit="myForm()">
+                        <div class="buttonInp">
+                            <input type="email" id="in" placeholder="Email address" >
+                            <button id="mBtn">Order now</button> 
+                        </div> 
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- NEWSLETTER SECTION -->
+
+    <!-- FOOOTER -->
+    <div class="row">
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <div class="footer">
+                <div class="row">
+                    <div class="col-6 col-sm-6 col-md-6 col-lg-6">
+                        <p>Created by Saad | &copy; 2022 All rights are reserved.</p>        
+                    </div>
+                    <div class="col-6 col-sm-6 col-md-6 col-lg-6">
+                        <div class="icons">
+                            <a href=""><i class="fa-brands fa-facebook"></i></a>
+                            <a href=""><i class="fa-brands fa-instagram"></i></a>
+                            <a href=""><i class="fa-brands fa-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- FOOOTER -->
